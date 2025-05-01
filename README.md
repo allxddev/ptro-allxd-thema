@@ -1,3 +1,3 @@
 pakai ini
 
-bash <(curl https://raw.githubusercontent.com/ZaniaXdRun/Pterodactyl-Tema-Anime/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/allxddev/ptro-allxd-thema/main/install.sh)
